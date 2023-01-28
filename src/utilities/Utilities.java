@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 
 // Classe    : Utilities
-// Purpose   : In questa classe vengono implementati alcuni metodi volti ad effettuare print 
+// Obiettivo   : In questa classe vengono implementati alcuni metodi volti ad effettuare print 
 //'--------------------------------------------------------------------------------------- 
 public class Utilities {
 
