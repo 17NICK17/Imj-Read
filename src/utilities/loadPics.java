@@ -23,7 +23,7 @@ public class loadPics extends RecursiveTask<Boolean> {
 
 
 	// Method  : loadPics
-	// Purpose : costruttore della classe loadPics
+	// Obiettivo : costruttore della classe loadPics
 	public loadPics(int threadID, List<Picture> pictures, File[] baseFolder, int startIndex, int endIndex) {
 		this.threadID = threadID;
 		this.pictures = pictures;
